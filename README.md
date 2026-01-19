@@ -6,6 +6,9 @@ SQL-based insurance portfolio analysis focusing on profitability, risk drivers, 
 This project analyzes an insurance company’s portfolio to evaluate financial performance, identify loss drivers, and provide data-driven recommendations for pricing and underwriting.
 The analysis is conducted using SQL queries on structured datasets.
 
+## 📊 Insurance Portfolio Dashboard
+![Insurance Portfolio Dashboard](images/dashboard.png)
+
 ## 🎯 Project Objectives
 - Analyze total premium vs total claims
 - Evaluate profitability trends across years
